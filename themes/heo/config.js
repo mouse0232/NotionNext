@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'mouse0232.COM',
   HEO_HERO_TITLE_4: '站点推荐',
-  HEO_HERO_TITLE_5: 'VPS严选',
+  HEO_HERO_TITLE_5: 'VPS严选 甄别优劣主机',
   HEO_HERO_TITLE_LINK: 'https://www.vpscp.top',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
