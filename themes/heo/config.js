@@ -35,7 +35,7 @@ const CONFIG = {
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
   HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: false, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
-  HERO_RECOMMEND_COVER: 'https://img.noder.cc/20241107/AQADZL8xG0SZYVV-.jpg', // 英雄区右侧图片
+  HERO_RECOMMEND_COVER: 'https://cdn.yxj.wang/static-file/e5d1d9fe-bf0c-482f-88d8-8a15ad5a7a71/e7a82be1-21a6-495b-86b5-2811d979f523.webp', // 英雄区右侧图片
   
   // 英雄区右侧推荐文章遮罩控制
   HEO_HERO_RECOMMEND_COVER_ENABLE: true, // 是否显示推荐文章遮罩图片，true显示遮罩需点击查看，false直接显示推荐文章
